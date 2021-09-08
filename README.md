@@ -8,7 +8,7 @@ Hi 👋 I am a student developer from <img width="20" align="center" src="https:
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
-<a href="https://steamcommunity.com/profiles/76561198327940056/" target="_blank"><img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a> <a href="https://www.instagram.com/aabdullahtrk_/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-171a21?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://steamcommunity.com/profiles/76561198327940056/" target="_blank"><img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a> src="https://img.shields.io/badge/-Instagram-171a21?style=flat-square&logo=instagram&logoColor=white" /></a>
 
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></a>
           <a href="#"><img src="https://img.shields.io/badge/-CSS-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></a>
